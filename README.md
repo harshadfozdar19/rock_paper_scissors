@@ -1,12 +1,39 @@
-## HTML + CSS + JavaScript
+# 🎮 Rock Paper Scissors Game
 
-This is a sample project to demonstrate the use of HTML, CSS and JavaScript. Start modefy the index.html, styles.css & script.js files to see the changes.
+A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript** with a stylish UI using a **navy & light blue gradient**. This project is perfect for beginners looking to learn DOM manipulation and responsive design.
 
-## How to run
+---
 
-1. Run the follwing command in your terminal:
-```bash
-live-server --no-browser
-```
+## 📸 Preview
 
-2. Refresh the URL in simple browser to see the output
+![screenshot](screenshot.png) <!-- Add a screenshot of your project here -->
+
+---
+
+## 🚀 Features
+
+- Choose Rock, Paper, or Scissors.
+- See computer's randomly generated choice.
+- Result display: Win / Lose / Draw.
+- Responsive and visually appealing 3D-style design.
+- Built using vanilla HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (with gradients and shadows)
+- JavaScript (for game logic)
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+rock-paper-scissors/
+│
+├── index.html         # Main game layout
+├── style.css          # Stylish layout and button effects
+├── script.js          # Game logic and interactivity
+└── README.md          # Project documentation
