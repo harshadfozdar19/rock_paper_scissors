@@ -4,12 +4,6 @@ A simple, interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 
 ---
 
-## 📸 Preview
-
-![screenshot](screenshot.png) <!-- Add a screenshot of your project here -->
-
----
-
 ## 🚀 Features
 
 - Choose Rock, Paper, or Scissors.
